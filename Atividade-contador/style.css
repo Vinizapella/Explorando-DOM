@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 100px;
+}
+#contador {
+    font-size: 2rem;
+    margin-bottom: 20px;
+    display: block;
+}
+button {
+    font-size: 1rem;
+    padding: 10px 20px;
+    margin: 5px;
+}
